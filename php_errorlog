@@ -1,0 +1,133 @@
+[12-Jul-2015 08:21:18 America/Mexico_City] PHP Fatal error:  Call to undefined function version() in /home/vecopias/public_html/gastos/application/views/header.php on line 17
+[12-Jul-2015 08:21:38 America/Mexico_City] PHP Fatal error:  Call to undefined function version() in /home/vecopias/public_html/gastos/application/views/header.php on line 17
+[13-Sep-2015 09:31:17 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/vecopias/public_html/gastos/application/models/consultas.php on line 721
+[13-Sep-2015 10:47:09 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/vecopias/public_html/gastos/application/libraries/Helper.php on line 274
+[18-Sep-2015 17:25:34 America/Mexico_City] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/vecopias/public_html/gastos/application/models/insertar.php on line 112
+[21-Sep-2015 10:15:20 America/Mexico_City] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/vecopias/public_html/gastos/application/models/insertar.php on line 112
+[21-Sep-2015 10:38:28 America/Mexico_City] PHP Parse error:  syntax error, unexpected ''val' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/vecopias/public_html/gastos/application/models/insertar.php on line 273
+[22-Sep-2015 10:38:31 CST6CDT] PHP Parse error:  syntax error, unexpected '$html' (T_VARIABLE), expecting function (T_FUNCTION) in /home/vecopias/public_html/gastos/application/controllers/resumen.php on line 839
+[23-Sep-2015 09:59:15 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/libraries/Helper.php on line 317
+[06-Oct-2015 17:42:02 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/vecopias/public_html/gastos/application/models/consultas.php on line 57
+[15-Oct-2015 17:56:06 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 661
+[15-Oct-2015 18:06:42 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 180
+[21-Oct-2015 17:09:47 America/Mexico_City] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/vecopias/public_html/gastos/application/controllers/checkCFDI.php on line 92
+[22-Oct-2015 12:24:22 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/vecopias/public_html/gastos/application/controllers/resumen.php on line 398
+[26-Oct-2015 17:58:05 America/Mexico_City] PHP Fatal error:  Call to undefined method Consultas::getValidacionePaquete() in /home/vecopias/public_html/gastos/application/controllers/reposicion.php on line 425
+[30-Oct-2015 17:31:04 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/vecopias/public_html/gastos/application/models/consultas.php on line 387
+[30-Oct-2015 17:31:04 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 452
+[30-Oct-2015 17:35:33 America/Mexico_City] PHP Fatal error:  Class 'Consultas' not found in /home/vecopias/public_html/gastos/system/core/Loader.php on line 303
+[30-Oct-2015 17:35:34 America/Mexico_City] PHP Fatal error:  Class 'Consultas' not found in /home/vecopias/public_html/gastos/system/core/Loader.php on line 303
+[30-Oct-2015 17:35:37 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/vecopias/public_html/gastos/application/models/consultas.php on line 226
+[30-Oct-2015 17:35:39 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/vecopias/public_html/gastos/application/models/consultas.php on line 226
+[30-Oct-2015 17:35:39 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 251
+[30-Oct-2015 17:35:42 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/vecopias/public_html/gastos/application/models/consultas.php on line 473
+[30-Oct-2015 17:35:43 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/vecopias/public_html/gastos/application/models/consultas.php on line 473
+[30-Oct-2015 17:35:43 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 635
+[30-Oct-2015 17:55:32 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/vecopias/public_html/gastos/application/models/consultas.php on line 57
+[30-Oct-2015 17:55:33 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 180
+[30-Oct-2015 17:55:33 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 180
+[30-Oct-2015 17:55:37 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/vecopias/public_html/gastos/application/models/consultas.php on line 820
+[30-Oct-2015 18:09:54 America/Mexico_City] PHP Fatal error:  Class 'Consultas' not found in /home/vecopias/public_html/gastos/system/core/Loader.php on line 303
+[30-Oct-2015 18:09:54 America/Mexico_City] PHP Fatal error:  Class 'Consultas' not found in /home/vecopias/public_html/gastos/system/core/Loader.php on line 303
+[30-Oct-2015 18:09:54 America/Mexico_City] PHP Fatal error:  Class 'Consultas' not found in /home/vecopias/public_html/gastos/system/core/Loader.php on line 303
+[30-Oct-2015 18:09:56 America/Mexico_City] PHP Parse error:  syntax error, unexpected ''Contr' (T_ENCAPSED_AND_WHITESPACE) in /home/vecopias/public_html/gastos/application/models/consultas.php on line 28
+[30-Oct-2015 18:09:59 America/Mexico_City] PHP Parse error:  syntax error, unexpected ''Contr' (T_ENCAPSED_AND_WHITESPACE) in /home/vecopias/public_html/gastos/application/models/consultas.php on line 28
+[30-Oct-2015 18:09:59 America/Mexico_City] PHP Parse error:  syntax error, unexpected ''Contr' (T_ENCAPSED_AND_WHITESPACE) in /home/vecopias/public_html/gastos/application/models/consultas.php on line 28
+[30-Oct-2015 18:10:00 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 122
+[30-Oct-2015 18:10:04 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 151
+[30-Oct-2015 18:10:07 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 151
+[30-Oct-2015 18:10:07 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 151
+[30-Oct-2015 18:10:08 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 151
+[30-Oct-2015 18:10:09 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 151
+[30-Oct-2015 18:10:12 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 151
+[30-Oct-2015 18:10:13 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 151
+[30-Oct-2015 18:10:14 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 151
+[30-Oct-2015 18:10:16 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 151
+[30-Oct-2015 18:10:16 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 151
+[30-Oct-2015 18:10:17 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 151
+[30-Oct-2015 18:10:18 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 151
+[30-Oct-2015 18:10:19 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 151
+[30-Oct-2015 18:10:23 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 151
+[30-Oct-2015 18:10:24 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 151
+[30-Oct-2015 18:10:25 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 151
+[30-Oct-2015 18:10:26 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 151
+[30-Oct-2015 18:10:28 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 151
+[30-Oct-2015 18:10:29 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 151
+[30-Oct-2015 18:10:32 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 151
+[30-Oct-2015 18:10:33 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 151
+[30-Oct-2015 18:10:35 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 151
+[30-Oct-2015 18:10:37 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 151
+[30-Oct-2015 18:10:39 America/Mexico_City] PHP Fatal error:  Class 'Consultas' not found in /home/vecopias/public_html/gastos/system/core/Loader.php on line 303
+[30-Oct-2015 18:10:40 America/Mexico_City] PHP Fatal error:  Class 'Consultas' not found in /home/vecopias/public_html/gastos/system/core/Loader.php on line 303
+[30-Oct-2015 18:10:43 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/vecopias/public_html/gastos/application/models/consultas.php on line 57
+[30-Oct-2015 18:10:44 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 151
+[30-Oct-2015 18:10:44 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 151
+[30-Oct-2015 18:10:47 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/vecopias/public_html/gastos/application/models/consultas.php on line 308
+[30-Oct-2015 18:10:48 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/vecopias/public_html/gastos/application/models/consultas.php on line 334
+[30-Oct-2015 18:10:49 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file, expecting '(' in /home/vecopias/public_html/gastos/application/models/consultas.php on line 421
+[30-Oct-2015 18:10:53 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 635
+[30-Oct-2015 18:10:54 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 743
+[30-Oct-2015 18:10:54 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/vecopias/public_html/gastos/application/models/consultas.php on line 820
+[05-Nov-2015 18:31:05 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 794
+[05-Nov-2015 18:31:05 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 794
+[19-Nov-2015 10:07:32 CST6CDT] PHP Parse error:  syntax error, unexpected ''fecha' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/vecopias/public_html/gastos/application/controllers/checkCFDI.php on line 97
+[23-Nov-2015 18:49:50 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/libraries/Helper.php on line 556
+[23-Nov-2015 18:49:50 CST6CDT] PHP Warning:  Unterminated comment starting line 614 in /home/vecopias/public_html/gastos/application/libraries/Helper.php on line 614
+[23-Nov-2015 18:49:50 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/vecopias/public_html/gastos/application/libraries/Helper.php on line 618
+[23-Nov-2015 18:49:51 CST6CDT] PHP Warning:  Unterminated comment starting line 614 in /home/vecopias/public_html/gastos/application/libraries/Helper.php on line 614
+[23-Nov-2015 18:49:51 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/vecopias/public_html/gastos/application/libraries/Helper.php on line 618
+[24-Nov-2015 13:27:37 America/Mexico_City] PHP Fatal error:  Class 'Consultas' not found in /home/vecopias/public_html/gastos/system/core/Loader.php on line 303
+[24-Nov-2015 13:27:40 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/vecopias/public_html/gastos/application/models/consultas.php on line 90
+[24-Nov-2015 13:27:40 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/vecopias/public_html/gastos/application/models/consultas.php on line 90
+[24-Nov-2015 13:27:41 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/vecopias/public_html/gastos/application/models/consultas.php on line 138
+[24-Nov-2015 13:27:42 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 256
+[24-Nov-2015 13:27:45 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file, expecting '(' in /home/vecopias/public_html/gastos/application/models/consultas.php on line 589
+[24-Nov-2015 13:28:05 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/controllers/principal.php on line 96
+[24-Nov-2015 13:28:06 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/controllers/principal.php on line 96
+[24-Nov-2015 13:29:37 America/Mexico_City] PHP Fatal error:  Class 'Consultas' not found in /home/vecopias/public_html/gastos/system/core/Loader.php on line 303
+[24-Nov-2015 13:29:38 America/Mexico_City] PHP Fatal error:  Class 'Consultas' not found in /home/vecopias/public_html/gastos/system/core/Loader.php on line 303
+[24-Nov-2015 13:29:40 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/vecopias/public_html/gastos/application/models/consultas.php on line 90
+[24-Nov-2015 13:29:40 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/vecopias/public_html/gastos/application/models/consultas.php on line 90
+[24-Nov-2015 13:29:41 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/vecopias/public_html/gastos/application/models/consultas.php on line 90
+[24-Nov-2015 13:29:42 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/models/consultas.php on line 256
+[24-Nov-2015 13:29:45 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file, expecting '(' in /home/vecopias/public_html/gastos/application/models/consultas.php on line 589
+[24-Nov-2015 13:29:46 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file, expecting '(' in /home/vecopias/public_html/gastos/application/models/consultas.php on line 589
+[24-Nov-2015 13:50:15 CST6CDT] PHP Parse error:  syntax error, unexpected 'fun' (T_STRING), expecting variable (T_VARIABLE) in /home/vecopias/public_html/gastos/application/controllers/principal.php on line 194
+[24-Nov-2015 13:50:15 CST6CDT] PHP Parse error:  syntax error, unexpected 'fun' (T_STRING), expecting variable (T_VARIABLE) in /home/vecopias/public_html/gastos/application/controllers/principal.php on line 194
+[24-Nov-2015 13:50:15 CST6CDT] PHP Parse error:  syntax error, unexpected 'fun' (T_STRING), expecting variable (T_VARIABLE) in /home/vecopias/public_html/gastos/application/controllers/principal.php on line 194
+[24-Nov-2015 13:50:15 CST6CDT] PHP Parse error:  syntax error, unexpected 'fun' (T_STRING), expecting variable (T_VARIABLE) in /home/vecopias/public_html/gastos/application/controllers/principal.php on line 194
+[24-Nov-2015 13:50:16 CST6CDT] PHP Parse error:  syntax error, unexpected 'fun' (T_STRING), expecting variable (T_VARIABLE) in /home/vecopias/public_html/gastos/application/controllers/principal.php on line 194
+[24-Nov-2015 13:51:05 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/controllers/principal.php on line 96
+[24-Nov-2015 13:54:22 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/controllers/principal.php on line 96
+[24-Nov-2015 13:54:22 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/controllers/principal.php on line 96
+[25-Nov-2015 11:00:07 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/controllers/principal.php on line 96
+[25-Nov-2015 11:00:16 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/vecopias/public_html/gastos/application/libraries/Helper.php on line 658
+[25-Nov-2015 12:44:08 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/vecopias/public_html/gastos/application/controllers/notificacion.php on line 168
+[25-Nov-2015 12:45:18 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/vecopias/public_html/gastos/application/controllers/notificacion.php on line 168
+[25-Nov-2015 12:46:01 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/vecopias/public_html/gastos/application/controllers/notificacion.php on line 168
+[25-Nov-2015 12:46:03 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/vecopias/public_html/gastos/application/controllers/notificacion.php on line 168
+[25-Nov-2015 12:46:07 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/vecopias/public_html/gastos/application/controllers/notificacion.php on line 168
+[25-Nov-2015 12:49:33 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/vecopias/public_html/gastos/application/controllers/notificacion.php on line 168
+[25-Nov-2015 12:49:39 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/vecopias/public_html/gastos/application/controllers/notificacion.php on line 168
+[25-Nov-2015 12:49:57 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/vecopias/public_html/gastos/application/controllers/notificacion.php on line 168
+[25-Nov-2015 12:50:14 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/vecopias/public_html/gastos/application/controllers/notificacion.php on line 168
+[25-Nov-2015 12:51:27 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/vecopias/public_html/gastos/application/controllers/notificacion.php on line 168
+[25-Nov-2015 12:52:00 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/vecopias/public_html/gastos/application/controllers/notificacion.php on line 168
+[25-Nov-2015 12:52:05 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/vecopias/public_html/gastos/application/controllers/notificacion.php on line 168
+[25-Nov-2015 12:52:07 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/vecopias/public_html/gastos/application/controllers/notificacion.php on line 168
+[25-Nov-2015 12:52:10 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/vecopias/public_html/gastos/application/controllers/notificacion.php on line 168
+[25-Nov-2015 12:52:10 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/vecopias/public_html/gastos/application/controllers/notificacion.php on line 168
+[25-Nov-2015 12:53:55 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/vecopias/public_html/gastos/application/controllers/notificacion.php on line 168
+[25-Nov-2015 13:02:52 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/controllers/principal.php on line 96
+[25-Nov-2015 13:05:29 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/controllers/principal.php on line 96
+[25-Nov-2015 13:05:29 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/controllers/principal.php on line 96
+[25-Nov-2015 13:24:03 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/vecopias/public_html/gastos/application/controllers/notificacion.php on line 168
+[25-Nov-2015 13:24:09 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/vecopias/public_html/gastos/application/controllers/notificacion.php on line 168
+[25-Nov-2015 13:24:11 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/vecopias/public_html/gastos/application/controllers/notificacion.php on line 168
+[25-Nov-2015 13:24:16 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/vecopias/public_html/gastos/application/controllers/notificacion.php on line 168
+[25-Nov-2015 13:24:40 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/vecopias/public_html/gastos/application/controllers/notificacion.php on line 168
+[25-Nov-2015 13:24:43 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/vecopias/public_html/gastos/application/controllers/notificacion.php on line 168
+[25-Nov-2015 13:24:46 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/vecopias/public_html/gastos/application/controllers/notificacion.php on line 168
+[25-Nov-2015 13:25:24 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/vecopias/public_html/gastos/application/controllers/notificacion.php on line 168
+[08-Dec-2015 12:42:14 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/vecopias/public_html/gastos/application/controllers/principal.php on line 96
+[26-Jan-2016 18:33:19 America/Mexico_City] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/vecopias/public_html/gastos/application/models/consultas.php on line 206
