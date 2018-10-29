@@ -15,7 +15,7 @@
 |
 */
 
-$config['base_url']	= 'http://localhost/CtrlP/';
+$config['base_url']	= 'http://localhost:9090/CtrlP/';
 
 /*
 |--------------------------------------------------------------------------
